@@ -6,7 +6,7 @@
   <link href="http://ogiwara6feetunder.github.io/atom.xml" rel="self"/>
   
   <link href="http://ogiwara6feetunder.github.io/"/>
-  <updated>2025-04-26T17:44:33.508Z</updated>
+  <updated>2025-04-30T15:14:33.754Z</updated>
   <id>http://ogiwara6feetunder.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>修羅薔薇【歌仙兼定MMD】</title>
+    <link href="http://ogiwara6feetunder.github.io/2025/05/01/%E4%BF%AE%E7%BE%85%E8%96%94%E8%96%87%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
+    <id>http://ogiwara6feetunder.github.io/2025/05/01/%E4%BF%AE%E7%BE%85%E8%96%94%E8%96%87%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
+    <published>2025-04-30T15:53:33.000Z</published>
+    <updated>2025-04-30T15:14:33.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>试着做了一个模型测试。没有绑定头发的物理，而且布料总是穿模。关节部分也总是凹陷穿模。心好累，总之就这样吧。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/srbr.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>本来对于舞台的构想是背后有个更加大的树，然后根系把祭坛撑裂开之类的。但是实在是没心思建模了就用了免费的资产库的树干加上一个三渲二的树冠。感觉做得有点草率但是效果应该还行。</p><p>绑定绑得跟屎一样。小臂绑出来是弯的。还不如让我死了呢。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;试着做了一个模型测试。没有绑定头发的物理，而且布料总是穿模。关节部分也总是凹陷穿模。心好累，总之就这样吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/categories/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/tags/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    <category term="MMD" scheme="http://ogiwara6feetunder.github.io/tags/MMD/"/>
+    
+    <category term="blender" scheme="http://ogiwara6feetunder.github.io/tags/blender/"/>
+    
+    <category term="歌仙兼定" scheme="http://ogiwara6feetunder.github.io/tags/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>歌仙正比WIP（衣服改了一下）</title>
@@ -516,31 +543,6 @@
     <category term="边狱巴士" scheme="http://ogiwara6feetunder.github.io/tags/%E8%BE%B9%E7%8B%B1%E5%B7%B4%E5%A3%AB/"/>
     
     <category term="伪数值面板" scheme="http://ogiwara6feetunder.github.io/tags/%E4%BC%AA%E6%95%B0%E5%80%BC%E9%9D%A2%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尝试搭建新博客</title>
-    <link href="http://ogiwara6feetunder.github.io/2025/04/07/first_post/"/>
-    <id>http://ogiwara6feetunder.github.io/2025/04/07/first_post/</id>
-    <published>2025-04-06T14:54:26.000Z</published>
-    <updated>2025-04-08T17:04:52.121Z</updated>
-    
-    <content type="html"><![CDATA[<p>总之稍微试着用hexo框架搭建了一下，部署了一下博客。但是不论如何都不能改最开始的头像和图片，并且网站标签页的图标也改不了。明明用了相对路径的……<br>感觉搭建这个还是挺好玩的。这个主题也能用很多的插件，够我研究一会了。</p><p>之后想做几个分类，一个是tkrb所有的碎碎念，包括刀婶刀以及很多其他的很多问卷，还有自己写的很多草稿也会搬上来（和成品会分开。不过至今我还没有完整地打磨过一篇长篇的tkrb的文，都是只有想法和草稿），以及一些考据和发电。还有一个就是搅拌机建模，每天的WIP以及MMD成品也会分开来。另外一个是游戏开发，包括twine以及Unity在画的资产以及搓的代码都会放到上面去，有时候会附带一些自己糊的音乐。最后就是日常的各种碎碎念，就和这个一样，附带放送自己玩的很多游戏日常。这个主题的tag系统以及分类系统真的很好用，下辈子还用。</p><p>或许说不定还可以专门弄个分类列一下自己所有曾经画过的饼和OC？以及自己之前在那个论坛圈地为厕的帖子里面的东西也想要一点点搬过来。不然全部混在一起就会非常爆炸。</p><p>差不多就是对于这个博客的想法。将来如果有时间了还想要搓歌仙的L2D放在这个页面上。总之开始建设吧……！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;总之稍微试着用hexo框架搭建了一下，部署了一下博客。但是不论如何都不能改最开始的头像和图片，并且网站标签页的图标也改不了。明明用了相对路径的……&lt;br&gt;感觉搭建这个还是挺好玩的。这个主题也能用很多的插件，够我研究一会了。&lt;/p&gt;
-&lt;p&gt;之后想做几个分类，一个是tkrb所有</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="http://ogiwara6feetunder.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="碎碎念" scheme="http://ogiwara6feetunder.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
