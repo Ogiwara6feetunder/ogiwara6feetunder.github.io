@@ -6,7 +6,7 @@
   <link href="http://ogiwara6feetunder.github.io/atom.xml" rel="self"/>
   
   <link href="http://ogiwara6feetunder.github.io/"/>
-  <updated>2025-05-13T18:26:46.452Z</updated>
+  <updated>2025-05-18T10:18:43.278Z</updated>
   <id>http://ogiwara6feetunder.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ザムザ【歌仙兼定MMD】</title>
+    <link href="http://ogiwara6feetunder.github.io/2025/05/18/%E3%82%B6%E3%83%A0%E3%82%B6%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
+    <id>http://ogiwara6feetunder.github.io/2025/05/18/%E3%82%B6%E3%83%A0%E3%82%B6%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
+    <published>2025-05-18T11:14:04.000Z</published>
+    <updated>2025-05-18T10:18:43.278Z</updated>
+    
+    <content type="html"><![CDATA[<p>试着用了之前做过的资产构史。基本上没有新的模感觉有点低创但是就这样吧。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/zmz.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;试着用了之前做过的资产构史。基本上没有新的模感觉有点低创但是就这样吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/categories/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/tags/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    <category term="MMD" scheme="http://ogiwara6feetunder.github.io/tags/MMD/"/>
+    
+    <category term="blender" scheme="http://ogiwara6feetunder.github.io/tags/blender/"/>
+    
+    <category term="歌仙兼定" scheme="http://ogiwara6feetunder.github.io/tags/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>ダーリンダンス【歌仙兼定MMD】</title>
@@ -522,31 +549,6 @@
     <category term="小说" scheme="http://ogiwara6feetunder.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
     <category term="大纲" scheme="http://ogiwara6feetunder.github.io/tags/%E5%A4%A7%E7%BA%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>平行恋心【审神者MMD】</title>
-    <link href="http://ogiwara6feetunder.github.io/2025/04/07/%E5%B9%B3%E8%A1%8C%E6%81%8B%E5%BF%83%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/"/>
-    <id>http://ogiwara6feetunder.github.io/2025/04/07/%E5%B9%B3%E8%A1%8C%E6%81%8B%E5%BF%83%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/</id>
-    <published>2025-04-06T19:11:59.000Z</published>
-    <updated>2025-04-10T07:14:19.556Z</updated>
-    
-    <content type="html"><![CDATA[<p>试着做了一下审神者的MMD。顺便测试一下视频组件。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/Para.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>婶的设定本来是理科生的来着但是穿了一套文学少女经典出装w然而还是盖不住宅宅的气息……</p><p>因为觉得本来没有共同话题但是努力想要用艺术的方式表达心意的婶很萌所以套了这个动作。用了新的渲染方式，希望可以看上去更加漂亮一点。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;试着做了一下审神者的MMD。顺便测试一下视频组件。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/categories/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
-    
-    
-    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/tags/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
-    
-    <category term="MMD" scheme="http://ogiwara6feetunder.github.io/tags/MMD/"/>
-    
-    <category term="审神者" scheme="http://ogiwara6feetunder.github.io/tags/%E5%AE%A1%E7%A5%9E%E8%80%85/"/>
     
   </entry>
   
