@@ -6,7 +6,7 @@
   <link href="http://ogiwara6feetunder.github.io/atom.xml" rel="self"/>
   
   <link href="http://ogiwara6feetunder.github.io/"/>
-  <updated>2025-06-24T12:26:49.795Z</updated>
+  <updated>2025-06-24T13:03:20.121Z</updated>
   <id>http://ogiwara6feetunder.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>处处吻【歌仙兼定MMD】</title>
+    <link href="http://ogiwara6feetunder.github.io/2025/06/24/%E5%A4%84%E5%A4%84%E5%90%BB%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
+    <id>http://ogiwara6feetunder.github.io/2025/06/24/%E5%A4%84%E5%A4%84%E5%90%BB%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
+    <published>2025-06-24T11:35:52.000Z</published>
+    <updated>2025-06-24T13:03:20.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>建了紫藤的景趣。准备歌仙日的时候发出来（但是没准在那之前就发了）。</p><span id="more"></span><p>做了几版颜色的紫藤景趣，结果还是调高亮度调低饱和度更加好看一些。之后的远景本来应该用面片的……但是依然用了实体+镜子这种纯粹折磨显卡的办法。一渲就要一整天非常地难受啊。</p><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/ccw.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>以及这个是我给歌仙日准备的诗和和歌：</p><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙</div><div class="meta"><span>版主</span></div><div class="body"><p>若紫骨生香，映存血琳琅。<br>命魂销金铁，故人谓痴狂。<br>八代形迹匿，银杏空落霜。<br>作歌吊前人，六仙犹彷徨。</p></div><div class="footer">歌仙是真媚啊</div></div></div><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙·和歌</div><div class="meta"><span>版主</span></div><div class="body"><p>紫の 骨より映る 数多魂<br>八代跡で けふも彷徨う</p></div><div class="footer">试着翻译成了和歌</div></div></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;建了紫藤的景趣。准备歌仙日的时候发出来（但是没准在那之前就发了）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/categories/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    
+    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/tags/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
+    
+    <category term="MMD" scheme="http://ogiwara6feetunder.github.io/tags/MMD/"/>
+    
+    <category term="blender" scheme="http://ogiwara6feetunder.github.io/tags/blender/"/>
+    
+    <category term="歌仙兼定" scheme="http://ogiwara6feetunder.github.io/tags/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>おちゃめ機能【审神者MMD】</title>
@@ -524,33 +551,6 @@
     <category term="歌仙兼定" scheme="http://ogiwara6feetunder.github.io/tags/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/"/>
     
     <category term="人设分析" scheme="http://ogiwara6feetunder.github.io/tags/%E4%BA%BA%E8%AE%BE%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>歌仙正比模型WIP</title>
-    <link href="http://ogiwara6feetunder.github.io/2025/04/08/%E6%AD%8C%E4%BB%99%E6%AD%A3%E6%AF%94%E6%A8%A1%E5%9E%8BWIP/"/>
-    <id>http://ogiwara6feetunder.github.io/2025/04/08/%E6%AD%8C%E4%BB%99%E6%AD%A3%E6%AF%94%E6%A8%A1%E5%9E%8BWIP/</id>
-    <published>2025-04-07T17:04:45.000Z</published>
-    <updated>2025-04-18T11:49:27.757Z</updated>
-    
-    <content type="html"><![CDATA[<p>试着给歌仙正比的模型的脸拆分了一下画了贴图。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/Mykasen_eye_changed.E__MMD_Model_MyKasen_Mykasen_eye_changed.blend.-.Blender.4.4.0.2025-04-06.02-53-34.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>不知道看上去有没有违和感。一直盯着模型看感觉自己纯粹脸盲了……</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;试着给歌仙正比的模型的脸拆分了一下画了贴图。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/categories/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
-    
-    
-    <category term="刀剑乱舞" scheme="http://ogiwara6feetunder.github.io/tags/%E5%88%80%E5%89%91%E4%B9%B1%E8%88%9E/"/>
-    
-    <category term="blender" scheme="http://ogiwara6feetunder.github.io/tags/blender/"/>
-    
-    <category term="WIP" scheme="http://ogiwara6feetunder.github.io/tags/WIP/"/>
-    
-    <category term="歌仙兼定" scheme="http://ogiwara6feetunder.github.io/tags/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/"/>
     
   </entry>
   
