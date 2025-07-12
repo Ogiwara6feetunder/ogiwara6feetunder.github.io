@@ -46,9 +46,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/07/09/%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/07/09/%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-07-09T09:23:52.000Z</published>
-    <updated>2025-07-09T10:45:38.904Z</updated>
+    <updated>2025-07-12T15:03:06.165Z</updated>
     
-    <content type="html"><![CDATA[<p>因为看到其他动漫角色都有这首洗筷子神曲的MMD所以给歌仙也做了。叠了很多光效，希望看上去可以好一些。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/lilgf.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>用到的合成器的效果是椭圆遮罩，色散，模糊+分离颜色，之后把一个模糊的分离颜色的RGB单色连到合成颜色的节点上做颜色偏差，和色散叠加。还有太阳光线节点连色相饱和度明度的节点之后和原画面变亮叠加就可以做出光线的感觉。</p>]]></content>
+    <content type="html"><![CDATA[<p>因为看到其他动漫角色都有这首洗筷子神曲的MMD所以给歌仙也做了。叠了很多光效，希望看上去可以好一些。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/lilgf.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>用到的合成器的效果是椭圆遮罩，色散，模糊+分离颜色，之后把一个模糊的分离颜色的RGB单色连到合成颜色的节点上做颜色偏差，和色散叠加。还有太阳光线节点连色相饱和度明度的节点之后和原画面变亮叠加就可以做出光线的感觉。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;因为看到其他动漫角色都有这首洗筷子神曲的MMD所以给歌仙也做了。叠了很多光效，希望看上去可以好一些。&lt;/p&gt;</summary>
@@ -73,9 +73,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/06/24/%E8%8A%92%E7%A7%8D%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/06/24/%E8%8A%92%E7%A7%8D%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/</id>
     <published>2025-06-24T15:11:47.000Z</published>
-    <updated>2025-06-24T16:49:50.160Z</updated>
+    <updated>2025-07-12T15:03:15.729Z</updated>
     
-    <content type="html"><![CDATA[<p>建了芒种菖蒲的景趣。做了新的发型和衣服。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/mz.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
+    <content type="html"><![CDATA[<p>建了芒种菖蒲的景趣。做了新的发型和衣服。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/mz.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
     
     
     <summary type="html">&lt;p&gt;建了芒种菖蒲的景趣。做了新的发型和衣服。&lt;/p&gt;</summary>
@@ -100,9 +100,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/06/24/%E5%A4%84%E5%A4%84%E5%90%BB%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/06/24/%E5%A4%84%E5%A4%84%E5%90%BB%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-06-24T11:35:52.000Z</published>
-    <updated>2025-06-24T13:03:20.121Z</updated>
+    <updated>2025-07-12T15:03:56.000Z</updated>
     
-    <content type="html"><![CDATA[<p>建了紫藤的景趣。准备歌仙日的时候发出来（但是没准在那之前就发了）。</p><span id="more"></span><p>做了几版颜色的紫藤景趣，结果还是调高亮度调低饱和度更加好看一些。之后的远景本来应该用面片的……但是依然用了实体+镜子这种纯粹折磨显卡的办法。一渲就要一整天非常地难受啊。</p><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/ccw.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>以及这个是我给歌仙日准备的诗和和歌：</p><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙</div><div class="meta"><span>版主</span></div><div class="body"><p>若紫骨生香，映存血琳琅。<br>命魂销金铁，故人谓痴狂。<br>八代形迹匿，银杏空落霜。<br>作歌吊前人，六仙犹彷徨。</p></div><div class="footer">歌仙是真媚啊</div></div></div><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙·和歌</div><div class="meta"><span>版主</span></div><div class="body"><p>紫の 骨より映る 数多魂<br>八代跡で けふも彷徨う</p></div><div class="footer">试着翻译成了和歌</div></div></div>]]></content>
+    <content type="html"><![CDATA[<p>建了紫藤的景趣。准备歌仙日的时候发出来（但是没准在那之前就发了）。</p><span id="more"></span><p>做了几版颜色的紫藤景趣，结果还是调高亮度调低饱和度更加好看一些。之后的远景本来应该用面片的……但是依然用了实体+镜子这种纯粹折磨显卡的办法。一渲就要一整天非常地难受啊。</p><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/ccw.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>以及这个是我给歌仙日准备的诗和和歌：</p><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙</div><div class="meta"><span>版主</span></div><div class="body"><p>若紫骨生香，映存血琳琅。<br>命魂销金铁，故人谓痴狂。<br>八代形迹匿，银杏空落霜。<br>作歌吊前人，六仙犹彷徨。</p></div><div class="footer">歌仙是真媚啊</div></div></div><div class="tag-plugin poetry"><div class="content"><div class="title">咏歌仙·和歌</div><div class="meta"><span>版主</span></div><div class="body"><p>紫の 骨より映る 数多魂<br>八代跡で けふも彷徨う</p></div><div class="footer">试着翻译成了和歌</div></div></div>]]></content>
     
     
     <summary type="html">&lt;p&gt;建了紫藤的景趣。准备歌仙日的时候发出来（但是没准在那之前就发了）。&lt;/p&gt;</summary>
@@ -127,9 +127,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/06/24/%E3%81%8A%E3%81%A1%E3%82%83%E3%82%81%E6%A9%9F%E8%83%BD%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/06/24/%E3%81%8A%E3%81%A1%E3%82%83%E3%82%81%E6%A9%9F%E8%83%BD%E3%80%90%E5%AE%A1%E7%A5%9E%E8%80%85MMD%E3%80%91/</id>
     <published>2025-06-24T11:00:24.000Z</published>
-    <updated>2025-06-24T12:26:49.795Z</updated>
+    <updated>2025-07-12T15:04:29.808Z</updated>
     
-    <content type="html"><![CDATA[<p>试着自己k了一下镜头。本来是在五月末的时候做的但是拖到了今天才创建页面（……）唉五月病就让他病到明年五月吧。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/Ochame.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>镜头动作文件的密码是：<psw>9OOYdt9fUQKX9pxpWzzK2UekBs2yQTbF6b-wS0ajNlE</psw></p>]]></content>
+    <content type="html"><![CDATA[<p>试着自己k了一下镜头。本来是在五月末的时候做的但是拖到了今天才创建页面（……）唉五月病就让他病到明年五月吧。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/Ochame.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>镜头动作文件的密码是：<psw>9OOYdt9fUQKX9pxpWzzK2UekBs2yQTbF6b-wS0ajNlE</psw></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;试着自己k了一下镜头。本来是在五月末的时候做的但是拖到了今天才创建页面（……）唉五月病就让他病到明年五月吧。&lt;/p&gt;</summary>
@@ -154,9 +154,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/05/18/%E3%82%B6%E3%83%A0%E3%82%B6%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/05/18/%E3%82%B6%E3%83%A0%E3%82%B6%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-05-18T11:14:04.000Z</published>
-    <updated>2025-06-24T12:18:41.897Z</updated>
+    <updated>2025-07-12T15:04:35.497Z</updated>
     
-    <content type="html"><![CDATA[<p>试着用了之前做过的资产构史。基本上没有新的模感觉有点低创但是就这样吧。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/zmz.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
+    <content type="html"><![CDATA[<p>试着用了之前做过的资产构史。基本上没有新的模感觉有点低创但是就这样吧。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/zmz.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
     
     
     <summary type="html">&lt;p&gt;试着用了之前做过的资产构史。基本上没有新的模感觉有点低创但是就这样吧。&lt;/p&gt;</summary>
@@ -181,9 +181,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/05/14/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B9%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/05/14/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B9%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-05-13T19:07:30.000Z</published>
-    <updated>2025-06-24T12:11:50.803Z</updated>
+    <updated>2025-07-12T15:04:41.567Z</updated>
     
-    <content type="html"><![CDATA[<p>感觉自己得了一种不给歌仙建蛋糕裙就会死的病。效率爆炸直接爆肝三天做一个实在是太爽了。</p><span id="more"></span><p>但是我不是嬷嬷也不是在泥塑歌仙只是在还原猛男本色而已。我觉得那种特别有肌肉的人穿这种可爱的衣服本来就是一件非常色情的事情。尤其是歌仙很大概率还会生气摆着一副臭脸光是想想健壮的歌仙穿着裙子摆着臭脸用看垃圾一样的眼神看着我我就觉得很爽。男人就应该这样好吗。</p><p>而且有拍到一张特别美的照片。我决定发其他地方的时候用这个做封面诱捕一无所知的路人。</p><div class="tag-plugin image"><div class="image-bg"><img src="/assets/posts/DD/Face.png" alt="图1：特别美的一帧" data-fancybox="true"/></div><div class="image-meta"><span class="image-caption center">图1：特别美的一帧</span></div></div><p>总之算是做完了。感觉有点想要配布这件衣服让大家可以去迫害别人。但是感觉有点不想弄MD文件的链接就这样吧……</p><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/DarlingD.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
+    <content type="html"><![CDATA[<p>感觉自己得了一种不给歌仙建蛋糕裙就会死的病。效率爆炸直接爆肝三天做一个实在是太爽了。</p><span id="more"></span><p>但是我不是嬷嬷也不是在泥塑歌仙只是在还原猛男本色而已。我觉得那种特别有肌肉的人穿这种可爱的衣服本来就是一件非常色情的事情。尤其是歌仙很大概率还会生气摆着一副臭脸光是想想健壮的歌仙穿着裙子摆着臭脸用看垃圾一样的眼神看着我我就觉得很爽。男人就应该这样好吗。</p><p>而且有拍到一张特别美的照片。我决定发其他地方的时候用这个做封面诱捕一无所知的路人。</p><div class="tag-plugin image"><div class="image-bg"><img class="lazy" src="/assets/posts/DD/Face.png" data-src="/assets/posts/DD/Face.png" alt="图1：特别美的一帧" data-fancybox="true"onerror="this.src=&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='2rem' height='2rem' viewBox='0 0 24 24'%3E%3C!-- Icon from Solar by 480 Design - https://creativecommons.org/licenses/by/4.0/ --%3E%3Cpath fill='%23F44336' d='M22 12.698c-.002 1.47-.013 2.718-.096 3.743c-.097 1.19-.296 2.184-.74 3.009a4.2 4.2 0 0 1-.73.983c-.833.833-1.893 1.21-3.237 1.39C15.884 22 14.2 22 12.053 22h-.106c-2.148 0-3.83 0-5.144-.177c-1.343-.18-2.404-.557-3.236-1.39c-.738-.738-1.12-1.656-1.322-2.795c-.2-1.12-.236-2.512-.243-4.241Q1.999 12.737 2 12v-.054c0-2.148 0-3.83.177-5.144c.18-1.343.557-2.404 1.39-3.236s1.893-1.21 3.236-1.39c1.168-.157 2.67-.175 4.499-.177a.697.697 0 1 1 0 1.396c-1.855.002-3.234.018-4.313.163c-1.189.16-1.906.464-2.436.994S3.72 5.8 3.56 6.99C3.397 8.2 3.395 9.788 3.395 12v.784l.932-.814a2.14 2.14 0 0 1 2.922.097l3.99 3.99a1.86 1.86 0 0 0 2.385.207l.278-.195a2.79 2.79 0 0 1 3.471.209l2.633 2.37c.265-.557.423-1.288.507-2.32c.079-.972.09-2.152.091-3.63a.698.698 0 0 1 1.396 0' opacity='.5'/%3E%3Cpath fill='%23F44336' fill-rule='evenodd' d='M17.5 11c-2.121 0-3.182 0-3.841-.659S13 8.621 13 6.5s0-3.182.659-3.841S15.379 2 17.5 2s3.182 0 3.841.659S22 4.379 22 6.5s0 3.182-.659 3.841S19.621 11 17.5 11m-1.47-7.03a.75.75 0 1 0-1.06 1.06l1.47 1.47l-1.47 1.47a.75.75 0 0 0 1.06 1.06l1.47-1.47l1.47 1.47a.75.75 0 1 0 1.06-1.06L18.56 6.5l1.47-1.47a.75.75 0 0 0-1.06-1.06L17.5 5.44z' clip-rule='evenodd'/%3E%3C/svg%3E&quot;"/><div class="lazy-icon" style="background-image:url(https://api.iconify.design/eos-icons:three-dots-loading.svg?color=%231cd0fd);"></div></div><div class="image-meta"><span class="image-caption center">图1：特别美的一帧</span></div></div><p>总之算是做完了。感觉有点想要配布这件衣服让大家可以去迫害别人。但是感觉有点不想弄MD文件的链接就这样吧……</p><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/DarlingD.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  ]]></content>
     
     
     <summary type="html">&lt;p&gt;感觉自己得了一种不给歌仙建蛋糕裙就会死的病。效率爆炸直接爆肝三天做一个实在是太爽了。&lt;/p&gt;</summary>
@@ -208,9 +208,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/05/11/%E3%83%89%E3%82%AF%E3%83%98%E3%83%93%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/05/11/%E3%83%89%E3%82%AF%E3%83%98%E3%83%93%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-05-11T13:58:04.000Z</published>
-    <updated>2025-05-11T13:16:28.606Z</updated>
+    <updated>2025-07-12T15:04:47.260Z</updated>
     
-    <content type="html"><![CDATA[<p>用之前的素材拼拼凑凑弄出来一个MMD。熬夜建了周围的欧式建筑居然还挺像那么一回事的。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/dkhb.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>用了一下AE发现这东西简直不是人用的，于是弄了一小段字幕之后堂堂半途而废。用这个软件做PV的人实乃神人……反正我是受不了这东西的工作界面。用了一会就死掉了。</p><p>我觉得我是有一些音痴在身上的，用了一整天扒ドクヘビ的谱子扒出来到处都是跑调的对轨也对不上听感很爆炸。但是Camellia的这首曲子到处都是高速神言我也完全没办法自己唱然后换声，所以就只能用SV了。做到一半电脑蓝屏爆炸了但是还好有恢复的存档于是就做完了，但是做完录屏导出之后又忘记保存了导致我的SVP只有做到一半的进度。这里是工程的完整录屏：</p><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/svp.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>唉反正SVP配布在底下的引用里面。谁感兴趣谁就去下一个吧（会有人感兴趣吗）。</p><p>而且sovits用SV的音频换声换出来会吞很多细节不如直接人声换了。但是人声我又不想提取别人的翻唱……总之就只能这样了。</p>]]></content>
+    <content type="html"><![CDATA[<p>用之前的素材拼拼凑凑弄出来一个MMD。熬夜建了周围的欧式建筑居然还挺像那么一回事的。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/dkhb.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>用了一下AE发现这东西简直不是人用的，于是弄了一小段字幕之后堂堂半途而废。用这个软件做PV的人实乃神人……反正我是受不了这东西的工作界面。用了一会就死掉了。</p><p>我觉得我是有一些音痴在身上的，用了一整天扒ドクヘビ的谱子扒出来到处都是跑调的对轨也对不上听感很爆炸。但是Camellia的这首曲子到处都是高速神言我也完全没办法自己唱然后换声，所以就只能用SV了。做到一半电脑蓝屏爆炸了但是还好有恢复的存档于是就做完了，但是做完录屏导出之后又忘记保存了导致我的SVP只有做到一半的进度。这里是工程的完整录屏：</p><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/svp.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>唉反正SVP配布在底下的引用里面。谁感兴趣谁就去下一个吧（会有人感兴趣吗）。</p><p>而且sovits用SV的音频换声换出来会吞很多细节不如直接人声换了。但是人声我又不想提取别人的翻唱……总之就只能这样了。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;用之前的素材拼拼凑凑弄出来一个MMD。熬夜建了周围的欧式建筑居然还挺像那么一回事的。&lt;/p&gt;</summary>
@@ -235,9 +235,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/04/30/%E4%BF%AE%E7%BE%85%E8%96%94%E8%96%87%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/"/>
     <id>http://ogiwara6feetunder.github.io/2025/04/30/%E4%BF%AE%E7%BE%85%E8%96%94%E8%96%87%E3%80%90%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9AMMD%E3%80%91/</id>
     <published>2025-04-30T15:53:33.000Z</published>
-    <updated>2025-05-11T13:06:30.482Z</updated>
+    <updated>2025-07-12T15:04:22.479Z</updated>
     
-    <content type="html"><![CDATA[<p>试着做了一个模型测试。没有绑定头发的物理，而且布料总是穿模。关节部分也总是凹陷穿模。心好累，总之就这样吧。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/srbr.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>本来对于舞台的构想是背后有个更加大的树，然后根系把祭坛撑裂开之类的。但是实在是没心思建模了就用了免费的资产库的树干加上一个三渲二的树冠。感觉做得有点草率但是效果应该还行。</p><p>绑定绑得跟屎一样。小臂绑出来是弯的。还不如让我死了呢。</p><p>突然发现没有在网页上弄借物表。弄一下。</p>]]></content>
+    <content type="html"><![CDATA[<p>试着做了一个模型测试。没有绑定头发的物理，而且布料总是穿模。关节部分也总是凹陷穿模。心好累，总之就这样吧。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/srbr.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>本来对于舞台的构想是背后有个更加大的树，然后根系把祭坛撑裂开之类的。但是实在是没心思建模了就用了免费的资产库的树干加上一个三渲二的树冠。感觉做得有点草率但是效果应该还行。</p><p>绑定绑得跟屎一样。小臂绑出来是弯的。还不如让我死了呢。</p><p>突然发现没有在网页上弄借物表。弄一下。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;试着做了一个模型测试。没有绑定头发的物理，而且布料总是穿模。关节部分也总是凹陷穿模。心好累，总之就这样吧。&lt;/p&gt;</summary>
@@ -287,9 +287,9 @@
     <link href="http://ogiwara6feetunder.github.io/2025/04/24/%E3%80%90%E5%A9%B6%E5%92%8C%E6%AD%8C%E4%BB%99%E7%9A%84MMD%E3%80%91%E4%BA%B2%E4%BA%B2%E5%B0%8F%E7%8B%90%E7%8B%B8/"/>
     <id>http://ogiwara6feetunder.github.io/2025/04/24/%E3%80%90%E5%A9%B6%E5%92%8C%E6%AD%8C%E4%BB%99%E7%9A%84MMD%E3%80%91%E4%BA%B2%E4%BA%B2%E5%B0%8F%E7%8B%90%E7%8B%B8/</id>
     <published>2025-04-23T17:52:31.000Z</published>
-    <updated>2025-05-11T13:00:02.693Z</updated>
+    <updated>2025-07-12T15:03:41.440Z</updated>
     
-    <content type="html"><![CDATA[<p>做了四月的歌仙的MMD。正比模型还有很多要弄赶不及了所以只能用之前的模型来做……没有正比有点违和感。但就这样吧我已经完全沉浸在自己的艺术里面了。</p><span id="more"></span><div class="tag-plugin video" style="max-width:100%;">  <video controls preload>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/KK.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>说实话这个曲子不是很戳我。但是小狐狸太可爱了而且之前的模型做了狐狸耳朵和尾巴所以顺滑地套了动作。喜欢捏。</p><p>这个网站主题的引用功能还挺方便的。可以直接把网址贴进去。</p>]]></content>
+    <content type="html"><![CDATA[<p>做了四月的歌仙的MMD。正比模型还有很多要弄赶不及了所以只能用之前的模型来做……没有正比有点违和感。但就这样吧我已经完全沉浸在自己的艺术里面了。</p><span id="more"></span><div class="tag-plugin video-player" style="max-width:100%;">  <video controls preload playsinline webkit-playsinline>  <source src="https://github.com/Ogiwara6feetunder/ogiwara6feetunder.github.io/releases/download/assets/KK.mp4" type="video/mp4">Your browser does not support the video tag.  </video>  </div>  <p>说实话这个曲子不是很戳我。但是小狐狸太可爱了而且之前的模型做了狐狸耳朵和尾巴所以顺滑地套了动作。喜欢捏。</p><p>这个网站主题的引用功能还挺方便的。可以直接把网址贴进去。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;做了四月的歌仙的MMD。正比模型还有很多要弄赶不及了所以只能用之前的模型来做……没有正比有点违和感。但就这样吧我已经完全沉浸在自己的艺术里面了。&lt;/p&gt;</summary>
